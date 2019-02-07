@@ -1,7 +1,9 @@
 
 # TABLEAU DATA VISUALIZATION
 
-**The Progress Journal of LEYLA YİĞİT
+**The Progress Journal of LEYLA YİĞİT**
+
+![Screenshot](data-viz-trends-header.b86c5d56.png)
 
 ***
 ***
