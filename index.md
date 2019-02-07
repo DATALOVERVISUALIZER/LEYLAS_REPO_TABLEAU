@@ -59,4 +59,4 @@ Here are my Tableau developments. For dashboards custome size developments are 1
 ***
 ***
 
-![Screenshot] (Comparing Data Visualization Software Here Are The 7 Best Tools For 2018.png)
+
