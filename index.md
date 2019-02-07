@@ -59,4 +59,4 @@ Here are my Tableau developments. For dashboards custome size developments are 1
 ***
 ***
 
-![Screenshot](colors.png)
+![Screenshot](data_visualization_pic_5b7e677c17525.jpg)
