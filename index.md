@@ -8,7 +8,7 @@
 ***
 ***
 
-**Dashboard Design examples for Finance Data. How Balance Sheet Data can be shown more effectively?  
+**Dashboard Design examples for Finance Data. How Balance Sheet Data can be shown more effectively?**
 
 [Click here for analysis](https://github.com/DATALOVERVISUALIZER/LEYLAS_REPO_TABLEAU/tree/master/Dashboard%20Design%20Examples) for png file.
 
